@@ -244,12 +244,12 @@ def main(): #Main function declaration.
             print(f"~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
         elif current_location == "Unconstitutional Foods":
             print(f"~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~") #Formatting and flavor text for this space.
-            print("This place looks surprisingly normal, aside from the owner's bear fifteen hundred pound bear which is used to remove ungrateful customers.")
+            print("This place looks surprisingly normal, aside from the owner's fifteen hundred pound bear which is used to remove ungrateful customers.")
             print("You order the Tomato Garlic Cumber Yellow Squash Soup, and attempt to hide behind the menu from the gaze of that bear.")
             print(f"~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
         elif current_location == "Shruthi's Didactic Nutrition":
             print(f"~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~") #Formatting and flavor text for this space.
-            print("You aren't sure who Shruthi is or was. The foods nature is didactic in this place. You feel a strange sense of excitement.")
+            print("You aren't sure who Shruthi is or was. The food's nature is didactic in this place. You feel a strange sense of excitement.")
             print("You order the Cinnamon Scorpion Peppercorn Brine Pickled Lemon and begin crying due to the instructive nature of the place.")
             print(f"~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
         elif current_location == "Saluting Salads":
@@ -259,7 +259,7 @@ def main(): #Main function declaration.
             print(f"~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
         elif current_location == "Almond Solvents Sandwich Shop":
             print(f"~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~") #Formatting and flavor text for this space.
-            print("You read the sign at the front of the shop: \"Our almonds will dissolve gold, diamond, and the of course the table.\" ")
+            print("You read the sign at the front of the shop: \"Our almonds will dissolve gold, diamond, and of course the table.\" ")
             print("You order the Mustard Peanut Butter Mayo Reuben Sandwich.")
             print(f"~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
         elif current_location == "Grate Walls of Waffles":
